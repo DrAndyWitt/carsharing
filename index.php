@@ -12,6 +12,7 @@
             <th>Kubikzahl</th>
     </tr>
     <?php
+    $y=0;
     $x = 1;
     while ($x < 11){
         echo "<tr>";
